@@ -29,9 +29,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). ScM Student
-Department of Biostatistics Bloomberg School of Public Health, Johns Hopkins University
+I’m a ScM Student in Biostatistics at Johns Hopkins University. My current research focus on developing statistical models for meta-analysis. Under the guidance of Dr. Jessie Tong and Dr. Lifeng Lin, I am concentrating on IPD meta-regression methods and addressing publication bias. Additionally, my work also involves the epidemiologic analysis of musculoskeletal diseases, under the guidance of Dr. Guoqi Cai.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of academia, I’m a dead hard fan of Juventus and Park Hyatt.
+
+## Research Interests
+
+* Meta-analysis
+* Publication Bias
+* Evidence Synthesis
+* Epidemiology
+
+
+
